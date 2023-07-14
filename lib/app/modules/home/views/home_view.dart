@@ -8,6 +8,7 @@ import '../controllers/home_controller.dart';
 import '../widgets/custom_drawer.dart';
 
 class HomeView extends GetView<HomeController> {
+  //finished
   const HomeView({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
